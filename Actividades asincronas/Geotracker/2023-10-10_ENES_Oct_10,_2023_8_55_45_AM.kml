@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <open>1</open>
+    <visibility>1</visibility>
+    <name>ENES Oct 10, 2023 8:55:45 AM</name>
+    <description>Práctica 1 geo tracker, estacionamiento</description>
+    <atom:author>
+      <atom:name>Recorded in Geo Tracker for Android from Ilya Bogdanovich</atom:name>
+    </atom:author>
+    <atom:link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <ExtendedData>
+      <Data name="comment">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <TimeStamp>
+      <when>2023-10-10T14:55:45.011Z</when>
+    </TimeStamp>
+    <Style id="track">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Schema id="geotrackerTrackSchema">
+      <gx:SimpleArrayField name="speed" type="float">
+        <displayName>Speed, meters per second</displayName>
+      </gx:SimpleArrayField>
+      <gx:SimpleArrayField name="course" type="float">
+        <displayName>Course, radians</displayName>
+      </gx:SimpleArrayField>
+    </Schema>
+    <Placemark>
+      <name>80 m</name>
+      <description>Speed: 1.76 km/h
+Elevation: -5 m
+Time from start: 00:00:03
+Distance from start: 0 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73587052,20.98760188,-4.93</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:55:52Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>72 m</name>
+      <description>Speed: 1.76 km/h
+Elevation: -5 m
+Time from start: 00:00:03
+Distance from start: 0 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73587052,20.98760188,-4.93</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:55:52Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>64 m</name>
+      <description>Speed: 0.72 km/h
+Elevation: 0 m
+Time from start: 00:00:22
+Distance from start: 10 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73587389,20.98769414,0.38</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:56:11Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>56 m</name>
+      <description>Speed: 3.46 km/h
+Elevation: 1 m
+Time from start: 00:00:43
+Distance from start: 21 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73587617,20.98778995,-3.34</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:56:32Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>48 m</name>
+      <description>Speed: 5.33 km/h
+Elevation: 0 m
+Time from start: 00:01:02
+Distance from start: 31 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73587024,20.98788365,-2.26</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:56:51Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>40</name>
+      <description>Speed: 5.33 km/h
+Elevation: 0 m
+Time from start: 00:01:15
+Distance from start: 41 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73588674,20.987973,-1.34</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:57:04Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>32</name>
+      <description>Speed: 5.33 km/h
+Elevation: 0 m
+Time from start: 00:01:15
+Distance from start: 41 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73588674,20.987973,-1.34</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:57:04Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>24</name>
+      <description>Speed: 2.99 km/h
+Elevation: -4 m
+Time from start: 00:01:34
+Distance from start: 52 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73590164,20.98806799,-0.67</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:57:23Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>16</name>
+      <description>Speed: 5.11 km/h
+Elevation: -5 m
+Time from start: 00:01:57
+Distance from start: 62 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73589431,20.98816205,-0.45</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:57:46Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>8</name>
+      <description>Speed: 5.94 km/h
+Elevation: -7 m
+Time from start: 00:02:11
+Distance from start: 73 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73590446,20.98826054,-1.55</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:58:00Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>0</name>
+      <description>Speed: 3.38 km/h
+Elevation: -4 m
+Time from start: 00:02:25
+Distance from start: 84 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.7359005,20.98835623,-3.17</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:58:14Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark id="tour">
+      <name>ENES Oct 10, 2023 8:55:45 AM</name>
+      <description>Práctica 1 geo tracker, estacionamiento</description>
+      <atom:author>
+        <atom:name>Recorded in Geo Tracker for Android from Ilya Bogdanovich</atom:name>
+      </atom:author>
+      <atom:link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="activity">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <TimeSpan>
+        <begin>2023-10-10T14:55:45.011Z</begin>
+        <end>2023-10-10T14:58:32.145Z</end>
+      </TimeSpan>
+      <styleUrl>#track</styleUrl>
+      <gx:MultiTrack>
+        <altitudeMode>absolute</altitudeMode>
+        <gx:interpolate>0</gx:interpolate>
+        <gx:Track>
+          <gx:coord>-89.73587315 20.98757605 -4.12</gx:coord>
+          <when>2023-10-10T14:55:49Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value>0.53</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value>0.27</gx:value>
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+        <gx:Track>
+          <gx:coord>-89.73587094 20.98758561 -4.25</gx:coord>
+          <when>2023-10-10T14:55:50Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value>1.48</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value>0.12</gx:value>
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+        <gx:Track>
+          <gx:coord>-89.73586965 20.98759628 -3.79</gx:coord>
+          <when>2023-10-10T14:55:51Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value>0.97</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value>6.15</gx:value>
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+        <gx:Track>
+          <gx:coord>-89.73587052 20.98760188 -4.93</gx:coord>
+          <when>2023-10-10T14:55:52Z</when>
+          <gx:coord>-89.73587389 20.98769414 0.38</gx:coord>
+          <when>2023-10-10T14:56:11Z</when>
+          <gx:coord>-89.73587617 20.98778995 1.28</gx:coord>
+          <when>2023-10-10T14:56:32Z</when>
+          <gx:coord>-89.73587024 20.98788365 0.37</gx:coord>
+          <when>2023-10-10T14:56:51Z</when>
+          <gx:coord>-89.73588674 20.987973 -0.47</gx:coord>
+          <when>2023-10-10T14:57:04Z</when>
+          <gx:coord>-89.73590164 20.98806799 -3.83</gx:coord>
+          <when>2023-10-10T14:57:23Z</when>
+          <gx:coord>-89.73589431 20.98816205 -5.09</gx:coord>
+          <when>2023-10-10T14:57:46Z</when>
+          <gx:coord>-89.73590446 20.98826054 -6.85</gx:coord>
+          <when>2023-10-10T14:58:00Z</when>
+          <gx:coord>-89.7359005 20.98835623 -3.83</gx:coord>
+          <when>2023-10-10T14:58:14Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value>0.49</gx:value>
+                <gx:value>0.2</gx:value>
+                <gx:value>0.96</gx:value>
+                <gx:value>1.48</gx:value>
+                <gx:value>1.48</gx:value>
+                <gx:value>0.83</gx:value>
+                <gx:value>1.42</gx:value>
+                <gx:value>1.65</gx:value>
+                <gx:value>0.94</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value>6.15</gx:value>
+                <gx:value>6.17</gx:value>
+                <gx:value>0.41</gx:value>
+                <gx:value>6.2</gx:value>
+                <gx:value>6.1</gx:value>
+                <gx:value>6.27</gx:value>
+                <gx:value>5.99</gx:value>
+                <gx:value>5.89</gx:value>
+                <gx:value>5.95</gx:value>
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+      </gx:MultiTrack>
+    </Placemark>
+  </Document>
+</kml>
